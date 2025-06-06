@@ -16,3 +16,4 @@ function toogleMode(){
         img.setAttribute('src', "./assets/avatar2.png")
     }
 }
+
